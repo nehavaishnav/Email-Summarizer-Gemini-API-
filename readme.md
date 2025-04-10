@@ -1,6 +1,3 @@
-Here’s a professional `README.md` file for your **Email Summarizer using Gemini API** project:
-
----
 
 # 📧 Email Summarizer with Gemini API
 
